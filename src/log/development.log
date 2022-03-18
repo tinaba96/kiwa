@@ -1,0 +1,1443 @@
+Started GET "/" for 172.27.0.1 at 2022-02-24 15:32:22 +0000
+Cannot render console from 172.27.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (15.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /usr/local/bundle/gems/railties-6.0.4.6/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/bundle/gems/railties-6.0.4.6/lib/rails/templates/rails/welcome/index.html.erb (Duration: 23.0ms | Allocations: 463)
+Completed 200 OK in 120ms (Views: 70.9ms | ActiveRecord: 0.0ms | Allocations: 2738)
+
+
+  [1m[35m (3.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Started GET "/" for 172.27.0.1 at 2022-02-24 15:34:56 +0000
+Cannot render console from 172.27.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.6ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+[Webpacker] Compiling...
+[Webpacker] Compiled all packs in /app/kiwami/public/packs
+[Webpacker] warning ../package.json: No license field
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+[Webpacker] Hash: 772e33f72f31795725c2
+Version: webpack 4.46.0
+Time: 36656ms
+Built at: 02/24/2022 3:35:41 PM
+                                     Asset       Size       Chunks                         Chunk Names
+    js/application-4ff707c731c80cbe6d96.js    124 KiB  application  [emitted] [immutable]  application
+js/application-4ff707c731c80cbe6d96.js.map    139 KiB  application  [emitted] [dev]        application
+      js/hello_vue-d78ba1bae4274e7934bf.js    267 KiB    hello_vue  [emitted] [immutable]  hello_vue
+  js/hello_vue-d78ba1bae4274e7934bf.js.map    313 KiB    hello_vue  [emitted] [dev]        hello_vue
+                             manifest.json  689 bytes               [emitted]              
+Entrypoint application = js/application-4ff707c731c80cbe6d96.js js/application-4ff707c731c80cbe6d96.js.map
+Entrypoint hello_vue = js/hello_vue-d78ba1bae4274e7934bf.js js/hello_vue-d78ba1bae4274e7934bf.js.map
+[./app/javascript/app.vue] 1.14 KiB {hello_vue} [built]
+[./app/javascript/app.vue?vue&type=script&lang=js&] 364 bytes {hello_vue} [built]
+[./app/javascript/app.vue?vue&type=style&index=0&id=6fb8108a&scoped=true&lang=css&] 361 bytes {hello_vue} [built]
+[./app/javascript/app.vue?vue&type=template&id=6fb8108a&scoped=true&] 213 bytes {hello_vue} [built]
+[./app/javascript/channels sync recursive _channel\.js$] ./app/javascript/channels sync _channel\.js$ 160 bytes {application} [built]
+[./app/javascript/channels/index.js] 211 bytes {application} [built]
+[./app/javascript/packs/application.js] 749 bytes {application} [built]
+[./app/javascript/packs/hello_vue.js] 1.89 KiB {hello_vue} [built]
+[./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./app/javascript/app.vue?vue&type=script&lang=js&] ./node_modules/babel-loader/lib??ref--8-0!./node_modules/vue-loader/lib??vue-loader-options!./app/javascript/app.vue?vue&type=script&lang=js& 115 bytes {hello_vue} [built]
+[./node_modules/css-loader/dist/cjs.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!./app/javascript/app.vue?vue&type=style&index=0&id=6fb8108a&scoped=true&lang=css&] ./node_modules/css-loader/dist/cjs.js??ref--3-1!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--3-2!./node_modules/vue-loader/lib??vue-loader-options!./app/javascript/app.vue?vue&type=style&index=0&id=6fb8108a&scoped=true&lang=css& 760 bytes {hello_vue} [built]
+[./node_modules/style-loader/dist/cjs.js!./node_modules/css-loader/dist/cjs.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!./app/javascript/app.vue?vue&type=style&index=0&id=6fb8108a&scoped=true&lang=css&] ./node_modules/style-loader/dist/cjs.js!./node_modules/css-loader/dist/cjs.js??ref--3-1!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--3-2!./node_modules/vue-loader/lib??vue-loader-options!./app/javascript/app.vue?vue&type=style&index=0&id=6fb8108a&scoped=true&lang=css& 771 bytes {hello_vue} [built]
+[./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./app/javascript/app.vue?vue&type=template&id=6fb8108a&scoped=true&] ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./app/javascript/app.vue?vue&type=template&id=6fb8108a&scoped=true& 290 bytes {hello_vue} [built]
+[./node_modules/webpack/buildin/global.js] (webpack)/buildin/global.js 863 bytes {hello_vue} [built]
+[./node_modules/webpack/buildin/module.js] (webpack)/buildin/module.js 552 bytes {application} [built]
+    + 10 hidden modules
+
+  Rendered home/index.html.erb within layouts/application (Duration: 46727.7ms | Allocations: 3485)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 49242ms (Views: 49224.6ms | ActiveRecord: 0.0ms | Allocations: 20582)
+
+
+Started GET "/" for 172.27.0.1 at 2022-02-24 15:38:44 +0000
+Cannot render console from 172.27.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (4.2ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+[Webpacker] Compiling...
+[Webpacker] Compiled all packs in /app/kiwami/public/packs
+[Webpacker] warning ../package.json: No license field
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+[Webpacker] Hash: f785f350cb429eca2566
+Version: webpack 4.46.0
+Time: 26016ms
+Built at: 02/24/2022 3:39:20 PM
+                                     Asset       Size       Chunks                         Chunk Names
+    js/application-4ff707c731c80cbe6d96.js    124 KiB  application  [emitted] [immutable]  application
+js/application-4ff707c731c80cbe6d96.js.map    139 KiB  application  [emitted] [dev]        application
+      js/hello_vue-ecac1c099aa4650e4f9b.js   3.39 MiB    hello_vue  [emitted] [immutable]  hello_vue
+  js/hello_vue-ecac1c099aa4650e4f9b.js.map   3.78 MiB    hello_vue  [emitted] [dev]        hello_vue
+                             manifest.json  689 bytes               [emitted]              
+Entrypoint application = js/application-4ff707c731c80cbe6d96.js js/application-4ff707c731c80cbe6d96.js.map
+Entrypoint hello_vue = js/hello_vue-ecac1c099aa4650e4f9b.js js/hello_vue-ecac1c099aa4650e4f9b.js.map
+[./app/javascript/app.vue] 1.14 KiB {hello_vue} [built]
+[./app/javascript/app.vue?vue&type=script&lang=js&] 364 bytes {hello_vue} [built]
+[./app/javascript/app.vue?vue&type=style&index=0&id=6fb8108a&scoped=true&lang=css&] 361 bytes {hello_vue} [built]
+[./app/javascript/app.vue?vue&type=template&id=6fb8108a&scoped=true&] 213 bytes {hello_vue} [built]
+[./app/javascript/channels sync recursive _channel\.js$] ./app/javascript/channels sync _channel\.js$ 160 bytes {application} [built]
+[./app/javascript/channels/index.js] 211 bytes {application} [built]
+[./app/javascript/packs/application.js] 749 bytes {application} [built]
+[./app/javascript/packs/hello_vue.js] 2.08 KiB {hello_vue} [built]
+[./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./app/javascript/app.vue?vue&type=script&lang=js&] ./node_modules/babel-loader/lib??ref--8-0!./node_modules/vue-loader/lib??vue-loader-options!./app/javascript/app.vue?vue&type=script&lang=js& 124 bytes {hello_vue} [built]
+[./node_modules/css-loader/dist/cjs.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!./app/javascript/app.vue?vue&type=style&index=0&id=6fb8108a&scoped=true&lang=css&] ./node_modules/css-loader/dist/cjs.js??ref--3-1!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--3-2!./node_modules/vue-loader/lib??vue-loader-options!./app/javascript/app.vue?vue&type=style&index=0&id=6fb8108a&scoped=true&lang=css& 893 bytes {hello_vue} [built]
+[./node_modules/style-loader/dist/cjs.js!./node_modules/css-loader/dist/cjs.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!./app/javascript/app.vue?vue&type=style&index=0&id=6fb8108a&scoped=true&lang=css&] ./node_modules/style-loader/dist/cjs.js!./node_modules/css-loader/dist/cjs.js??ref--3-1!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--3-2!./node_modules/vue-loader/lib??vue-loader-options!./app/javascript/app.vue?vue&type=style&index=0&id=6fb8108a&scoped=true&lang=css& 771 bytes {hello_vue} [built]
+[./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./app/javascript/app.vue?vue&type=template&id=6fb8108a&scoped=true&] ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./app/javascript/app.vue?vue&type=template&id=6fb8108a&scoped=true& 403 bytes {hello_vue} [built]
+[./node_modules/webpack/buildin/global.js] (webpack)/buildin/global.js 863 bytes {hello_vue} [built]
+[./node_modules/webpack/buildin/module.js] (webpack)/buildin/module.js 552 bytes {application} {hello_vue} [built]
+    + 13 hidden modules
+
+  Rendered home/index.html.erb within layouts/application (Duration: 36352.7ms | Allocations: 3641)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 36552ms (Views: 36513.9ms | ActiveRecord: 0.0ms | Allocations: 11077)
+
+
+Started GET "/" for 172.27.0.1 at 2022-02-24 16:10:54 +0000
+Cannot render console from 172.27.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (5.7ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered home/index.html.erb within layouts/application (Duration: 75.3ms | Allocations: 2383)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 349ms (Views: 331.5ms | ActiveRecord: 0.0ms | Allocations: 9805)
+
+
+Started GET "/" for 172.27.0.1 at 2022-02-24 16:22:51 +0000
+Cannot render console from 172.27.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (2.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+[Webpacker] Compiling...
+[Webpacker] Compilation failed:
+Hash: 60c08eed66cdc928b4d8
+Version: webpack 4.46.0
+Time: 27010ms
+Built at: 02/24/2022 4:23:26 PM
+                                     Asset       Size       Chunks                         Chunk Names
+    js/application-4ff707c731c80cbe6d96.js    124 KiB  application  [emitted] [immutable]  application
+js/application-4ff707c731c80cbe6d96.js.map    139 KiB  application  [emitted] [dev]        application
+      js/hello_vue-c16261b4e708bba267dd.js   3.57 MiB    hello_vue  [emitted] [immutable]  hello_vue
+  js/hello_vue-c16261b4e708bba267dd.js.map   3.98 MiB    hello_vue  [emitted] [dev]        hello_vue
+                             manifest.json  689 bytes               [emitted]              
+Entrypoint application = js/application-4ff707c731c80cbe6d96.js js/application-4ff707c731c80cbe6d96.js.map
+Entrypoint hello_vue = js/hello_vue-c16261b4e708bba267dd.js js/hello_vue-c16261b4e708bba267dd.js.map
+[./app/javascript/app.vue] 1.14 KiB {hello_vue} [built]
+[./app/javascript/app.vue?vue&type=script&lang=js&] 364 bytes {hello_vue} [built]
+[./app/javascript/app.vue?vue&type=style&index=0&id=6fb8108a&scoped=true&lang=css&] 361 bytes {hello_vue} [built]
+[./app/javascript/app.vue?vue&type=template&id=6fb8108a&scoped=true&] 213 bytes {hello_vue} [built]
+[./app/javascript/channels sync recursive _channel\.js$] ./app/javascript/channels sync _channel\.js$ 160 bytes {application} [built]
+[./app/javascript/channels/index.js] 211 bytes {application} [built]
+[./app/javascript/packs/application.js] 749 bytes {application} [built]
+[./app/javascript/packs/hello_vue.js] 2.08 KiB {hello_vue} [built]
+[./app/javascript/router.js] 287 bytes {hello_vue} [built]
+[./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./app/javascript/app.vue?vue&type=script&lang=js&] ./node_modules/babel-loader/lib??ref--8-0!./node_modules/vue-loader/lib??vue-loader-options!./app/javascript/app.vue?vue&type=script&lang=js& 127 bytes {hello_vue} [built]
+[./node_modules/css-loader/dist/cjs.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!./app/javascript/app.vue?vue&type=style&index=0&id=6fb8108a&scoped=true&lang=css&] ./node_modules/css-loader/dist/cjs.js??ref--3-1!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--3-2!./node_modules/vue-loader/lib??vue-loader-options!./app/javascript/app.vue?vue&type=style&index=0&id=6fb8108a&scoped=true&lang=css& 851 bytes {hello_vue} [built]
+[./node_modules/style-loader/dist/cjs.js!./node_modules/css-loader/dist/cjs.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!./app/javascript/app.vue?vue&type=style&index=0&id=6fb8108a&scoped=true&lang=css&] ./node_modules/style-loader/dist/cjs.js!./node_modules/css-loader/dist/cjs.js??ref--3-1!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--3-2!./node_modules/vue-loader/lib??vue-loader-options!./app/javascript/app.vue?vue&type=style&index=0&id=6fb8108a&scoped=true&lang=css& 771 bytes {hello_vue} [built]
+[./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./app/javascript/app.vue?vue&type=template&id=6fb8108a&scoped=true&] ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./app/javascript/app.vue?vue&type=template&id=6fb8108a&scoped=true& 449 bytes {hello_vue} [built]
+[./node_modules/webpack/buildin/global.js] (webpack)/buildin/global.js 863 bytes {hello_vue} [built]
+[./node_modules/webpack/buildin/module.js] (webpack)/buildin/module.js 552 bytes {application} {hello_vue} [built]
+    + 28 hidden modules
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2485:14-22
+"export 'computed' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2488:26-34
+"export 'computed' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2506:17-25
+"export 'computed' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2509:22-30
+"export 'computed' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2551:10-18
+"export 'computed' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2585:18-26
+"export 'computed' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2694:25-33
+"export 'computed' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2698:26-34
+"export 'computed' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 4055:31-39
+"export 'computed' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./app/javascript/router.js 5:8-14
+"export 'default' (imported as 'Router') was not found in 'vue-router'
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./app/javascript/router.js 6:19-25
+"export 'default' (imported as 'Router') was not found in 'vue-router'
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2560:34-49
+"export 'defineComponent' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2678:34-49
+"export 'defineComponent' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2270:48-66
+"export 'getCurrentInstance' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2295:48-66
+"export 'getCurrentInstance' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2526:19-37
+"export 'getCurrentInstance' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2828:17-35
+"export 'getCurrentInstance' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2592:39-40
+"export 'h' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2779:22-23
+"export 'h' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2275:21-27
+"export 'inject' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2300:21-27
+"export 'inject' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2483:15-21
+"export 'inject' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2484:21-27
+"export 'inject' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2582:18-24
+"export 'inject' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2693:24-30
+"export 'inject' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2697:16-22
+"export 'inject' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 4141:9-15
+"export 'inject' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 4150:9-15
+"export 'inject' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 3990:11-19
+"export 'nextTick' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2255:2-13
+"export 'onActivated' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2254:2-15
+"export 'onDeactivated' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2253:2-13
+"export 'onUnmounted' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2701:4-11
+"export 'provide' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2702:4-11
+"export 'provide' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2703:4-11
+"export 'provide' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2580:15-23
+"export 'reactive' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 4065:36-44
+"export 'reactive' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2704:18-21
+"export 'ref' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 3350:21-31
+"export 'shallowRef' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2486:26-31
+"export 'unref' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2517:20-25
+"export 'unref' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2517:63-68
+"export 'unref' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 4035:17-22
+"export 'unref' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2707:4-9
+"export 'watch' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2933:4-9
+"export 'watch' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2539:6-17
+"export 'watchEffect' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./app/javascript/router.js
+Module not found: Error: Can't resolve './components/Home.vue' in '/app/src/app/javascript'
+ @ ./app/javascript/router.js 3:0-41 9:15-19
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./app/javascript/router.js
+Module not found: Error: Can't resolve './components/Test.vue' in '/app/src/app/javascript'
+ @ ./app/javascript/router.js 4:0-41 12:15-19
+ @ ./app/javascript/packs/hello_vue.js
+
+
+warning ../package.json: No license field
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+  Rendered home/index.html.erb within layouts/application (Duration: 35369.4ms | Allocations: 3567)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 35551ms (Views: 35536.5ms | ActiveRecord: 0.0ms | Allocations: 10999)
+
+
+Started GET "/" for 172.27.0.1 at 2022-02-24 16:23:48 +0000
+Cannot render console from 172.27.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+[Webpacker] Compiling...
+[Webpacker] Compilation failed:
+Hash: 93131dc7c45d94322a69
+Version: webpack 4.46.0
+Time: 18747ms
+Built at: 02/24/2022 4:24:16 PM
+                                     Asset       Size       Chunks                         Chunk Names
+    js/application-4ff707c731c80cbe6d96.js    124 KiB  application  [emitted] [immutable]  application
+js/application-4ff707c731c80cbe6d96.js.map    139 KiB  application  [emitted] [dev]        application
+      js/hello_vue-d1f29f81746a5829b8a8.js   3.57 MiB    hello_vue  [emitted] [immutable]  hello_vue
+  js/hello_vue-d1f29f81746a5829b8a8.js.map   3.98 MiB    hello_vue  [emitted] [dev]        hello_vue
+                             manifest.json  689 bytes               [emitted]              
+Entrypoint application = js/application-4ff707c731c80cbe6d96.js js/application-4ff707c731c80cbe6d96.js.map
+Entrypoint hello_vue = js/hello_vue-d1f29f81746a5829b8a8.js js/hello_vue-d1f29f81746a5829b8a8.js.map
+[./app/javascript/app.vue] 1.14 KiB {hello_vue} [built]
+[./app/javascript/app.vue?vue&type=script&lang=js&] 364 bytes {hello_vue} [built]
+[./app/javascript/app.vue?vue&type=style&index=0&id=6fb8108a&scoped=true&lang=css&] 361 bytes {hello_vue} [built]
+[./app/javascript/app.vue?vue&type=template&id=6fb8108a&scoped=true&] 213 bytes {hello_vue} [built]
+[./app/javascript/channels sync recursive _channel\.js$] ./app/javascript/channels sync _channel\.js$ 160 bytes {application} [built]
+[./app/javascript/channels/index.js] 211 bytes {application} [built]
+[./app/javascript/packs/application.js] 749 bytes {application} [built]
+[./app/javascript/packs/hello_vue.js] 2.08 KiB {hello_vue} [built]
+[./app/javascript/router.js] 287 bytes {hello_vue} [built]
+[./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./app/javascript/app.vue?vue&type=script&lang=js&] ./node_modules/babel-loader/lib??ref--8-0!./node_modules/vue-loader/lib??vue-loader-options!./app/javascript/app.vue?vue&type=script&lang=js& 133 bytes {hello_vue} [built]
+[./node_modules/css-loader/dist/cjs.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!./app/javascript/app.vue?vue&type=style&index=0&id=6fb8108a&scoped=true&lang=css&] ./node_modules/css-loader/dist/cjs.js??ref--3-1!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--3-2!./node_modules/vue-loader/lib??vue-loader-options!./app/javascript/app.vue?vue&type=style&index=0&id=6fb8108a&scoped=true&lang=css& 891 bytes {hello_vue} [built]
+[./node_modules/style-loader/dist/cjs.js!./node_modules/css-loader/dist/cjs.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!./app/javascript/app.vue?vue&type=style&index=0&id=6fb8108a&scoped=true&lang=css&] ./node_modules/style-loader/dist/cjs.js!./node_modules/css-loader/dist/cjs.js??ref--3-1!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--3-2!./node_modules/vue-loader/lib??vue-loader-options!./app/javascript/app.vue?vue&type=style&index=0&id=6fb8108a&scoped=true&lang=css& 771 bytes {hello_vue} [built]
+[./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./app/javascript/app.vue?vue&type=template&id=6fb8108a&scoped=true&] ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./app/javascript/app.vue?vue&type=template&id=6fb8108a&scoped=true& 490 bytes {hello_vue} [built]
+[./node_modules/webpack/buildin/global.js] (webpack)/buildin/global.js 863 bytes {hello_vue} [built]
+[./node_modules/webpack/buildin/module.js] (webpack)/buildin/module.js 552 bytes {application} {hello_vue} [built]
+    + 28 hidden modules
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2485:14-22
+"export 'computed' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2488:26-34
+"export 'computed' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2506:17-25
+"export 'computed' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2509:22-30
+"export 'computed' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2551:10-18
+"export 'computed' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2585:18-26
+"export 'computed' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2694:25-33
+"export 'computed' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2698:26-34
+"export 'computed' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 4055:31-39
+"export 'computed' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./app/javascript/router.js 5:8-14
+"export 'default' (imported as 'Router') was not found in 'vue-router'
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./app/javascript/router.js 6:19-25
+"export 'default' (imported as 'Router') was not found in 'vue-router'
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2560:34-49
+"export 'defineComponent' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2678:34-49
+"export 'defineComponent' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2270:48-66
+"export 'getCurrentInstance' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2295:48-66
+"export 'getCurrentInstance' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2526:19-37
+"export 'getCurrentInstance' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2828:17-35
+"export 'getCurrentInstance' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2592:39-40
+"export 'h' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2779:22-23
+"export 'h' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2275:21-27
+"export 'inject' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2300:21-27
+"export 'inject' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2483:15-21
+"export 'inject' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2484:21-27
+"export 'inject' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2582:18-24
+"export 'inject' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2693:24-30
+"export 'inject' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2697:16-22
+"export 'inject' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 4141:9-15
+"export 'inject' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 4150:9-15
+"export 'inject' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 3990:11-19
+"export 'nextTick' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2255:2-13
+"export 'onActivated' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2254:2-15
+"export 'onDeactivated' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2253:2-13
+"export 'onUnmounted' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2701:4-11
+"export 'provide' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2702:4-11
+"export 'provide' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2703:4-11
+"export 'provide' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2580:15-23
+"export 'reactive' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 4065:36-44
+"export 'reactive' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2704:18-21
+"export 'ref' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 3350:21-31
+"export 'shallowRef' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2486:26-31
+"export 'unref' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2517:20-25
+"export 'unref' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2517:63-68
+"export 'unref' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 4035:17-22
+"export 'unref' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2707:4-9
+"export 'watch' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2933:4-9
+"export 'watch' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2539:6-17
+"export 'watchEffect' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./app/javascript/router.js
+Module not found: Error: Can't resolve './components/Home.vue' in '/app/src/app/javascript'
+ @ ./app/javascript/router.js 3:0-41 9:15-19
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./app/javascript/router.js
+Module not found: Error: Can't resolve './components/Test.vue' in '/app/src/app/javascript'
+ @ ./app/javascript/router.js 4:0-41 12:15-19
+ @ ./app/javascript/packs/hello_vue.js
+
+
+warning ../package.json: No license field
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+  Rendered home/index.html.erb within layouts/application (Duration: 28152.8ms | Allocations: 7405)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 28231ms (Views: 28229.9ms | ActiveRecord: 0.0ms | Allocations: 11193)
+
+
+Started GET "/" for 172.27.0.1 at 2022-02-24 16:26:24 +0000
+Cannot render console from 172.27.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+[Webpacker] Compiling...
+[Webpacker] Compilation failed:
+Hash: b9446b06f1d34cbff53f
+Version: webpack 4.46.0
+Time: 14450ms
+Built at: 02/24/2022 4:26:45 PM
+                                     Asset       Size       Chunks                         Chunk Names
+    js/application-4ff707c731c80cbe6d96.js    124 KiB  application  [emitted] [immutable]  application
+js/application-4ff707c731c80cbe6d96.js.map    139 KiB  application  [emitted] [dev]        application
+      js/hello_vue-c3b68036d369fc9fa882.js   3.58 MiB    hello_vue  [emitted] [immutable]  hello_vue
+  js/hello_vue-c3b68036d369fc9fa882.js.map   3.98 MiB    hello_vue  [emitted] [dev]        hello_vue
+                             manifest.json  689 bytes               [emitted]              
+Entrypoint application = js/application-4ff707c731c80cbe6d96.js js/application-4ff707c731c80cbe6d96.js.map
+Entrypoint hello_vue = js/hello_vue-c3b68036d369fc9fa882.js js/hello_vue-c3b68036d369fc9fa882.js.map
+[./app/javascript/app.vue] 1.14 KiB {hello_vue} [built]
+[./app/javascript/app.vue?vue&type=script&lang=js&] 364 bytes {hello_vue} [built]
+[./app/javascript/app.vue?vue&type=style&index=0&id=6fb8108a&scoped=true&lang=css&] 361 bytes {hello_vue} [built]
+[./app/javascript/app.vue?vue&type=template&id=6fb8108a&scoped=true&] 213 bytes {hello_vue} [built]
+[./app/javascript/channels sync recursive _channel\.js$] ./app/javascript/channels sync _channel\.js$ 160 bytes {application} [built]
+[./app/javascript/channels/index.js] 211 bytes {application} [built]
+[./app/javascript/packs/application.js] 749 bytes {application} [built]
+[./app/javascript/packs/hello_vue.js] 2.08 KiB {hello_vue} [built]
+[./app/javascript/router.js] 287 bytes {hello_vue} [built]
+[./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./app/javascript/app.vue?vue&type=script&lang=js&] ./node_modules/babel-loader/lib??ref--8-0!./node_modules/vue-loader/lib??vue-loader-options!./app/javascript/app.vue?vue&type=script&lang=js& 133 bytes {hello_vue} [built]
+[./node_modules/css-loader/dist/cjs.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!./app/javascript/app.vue?vue&type=style&index=0&id=6fb8108a&scoped=true&lang=css&] ./node_modules/css-loader/dist/cjs.js??ref--3-1!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--3-2!./node_modules/vue-loader/lib??vue-loader-options!./app/javascript/app.vue?vue&type=style&index=0&id=6fb8108a&scoped=true&lang=css& 891 bytes {hello_vue} [built]
+[./node_modules/style-loader/dist/cjs.js!./node_modules/css-loader/dist/cjs.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!./app/javascript/app.vue?vue&type=style&index=0&id=6fb8108a&scoped=true&lang=css&] ./node_modules/style-loader/dist/cjs.js!./node_modules/css-loader/dist/cjs.js??ref--3-1!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--3-2!./node_modules/vue-loader/lib??vue-loader-options!./app/javascript/app.vue?vue&type=style&index=0&id=6fb8108a&scoped=true&lang=css& 771 bytes {hello_vue} [built]
+[./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./app/javascript/app.vue?vue&type=template&id=6fb8108a&scoped=true&] ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./app/javascript/app.vue?vue&type=template&id=6fb8108a&scoped=true& 490 bytes {hello_vue} [built]
+[./node_modules/webpack/buildin/global.js] (webpack)/buildin/global.js 863 bytes {hello_vue} [built]
+[./node_modules/webpack/buildin/module.js] (webpack)/buildin/module.js 552 bytes {application} {hello_vue} [built]
+    + 34 hidden modules
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2485:14-22
+"export 'computed' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2488:26-34
+"export 'computed' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2506:17-25
+"export 'computed' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2509:22-30
+"export 'computed' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2551:10-18
+"export 'computed' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2585:18-26
+"export 'computed' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2694:25-33
+"export 'computed' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2698:26-34
+"export 'computed' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 4055:31-39
+"export 'computed' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./app/javascript/router.js 5:8-14
+"export 'default' (imported as 'Router') was not found in 'vue-router'
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./app/javascript/router.js 6:19-25
+"export 'default' (imported as 'Router') was not found in 'vue-router'
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2560:34-49
+"export 'defineComponent' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2678:34-49
+"export 'defineComponent' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2270:48-66
+"export 'getCurrentInstance' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2295:48-66
+"export 'getCurrentInstance' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2526:19-37
+"export 'getCurrentInstance' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2828:17-35
+"export 'getCurrentInstance' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2592:39-40
+"export 'h' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2779:22-23
+"export 'h' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2275:21-27
+"export 'inject' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2300:21-27
+"export 'inject' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2483:15-21
+"export 'inject' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2484:21-27
+"export 'inject' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2582:18-24
+"export 'inject' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2693:24-30
+"export 'inject' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2697:16-22
+"export 'inject' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 4141:9-15
+"export 'inject' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 4150:9-15
+"export 'inject' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 3990:11-19
+"export 'nextTick' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2255:2-13
+"export 'onActivated' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2254:2-15
+"export 'onDeactivated' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2253:2-13
+"export 'onUnmounted' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2701:4-11
+"export 'provide' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2702:4-11
+"export 'provide' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2703:4-11
+"export 'provide' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2580:15-23
+"export 'reactive' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 4065:36-44
+"export 'reactive' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2704:18-21
+"export 'ref' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 3350:21-31
+"export 'shallowRef' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2486:26-31
+"export 'unref' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2517:20-25
+"export 'unref' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2517:63-68
+"export 'unref' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 4035:17-22
+"export 'unref' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2707:4-9
+"export 'watch' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2933:4-9
+"export 'watch' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+ERROR in ./node_modules/vue-router/dist/vue-router.esm-bundler.js 2539:6-17
+"export 'watchEffect' was not found in 'vue'
+ @ ./app/javascript/router.js
+ @ ./app/javascript/packs/hello_vue.js
+
+
+warning ../package.json: No license field
+
+  Rendered home/index.html.erb within layouts/application (Duration: 21034.4ms | Allocations: 3297)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 21094ms (Views: 21091.0ms | ActiveRecord: 0.0ms | Allocations: 7111)
+
+
+Started GET "/" for 172.27.0.1 at 2022-02-24 16:30:47 +0000
+Cannot render console from 172.27.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (2.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+[Webpacker] Compiling...
+[Webpacker] Compiled all packs in /app/src/public/packs
+[Webpacker] warning ../package.json: No license field
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+[Webpacker] Hash: 339059e5d2ce9c4f4b56
+Version: webpack 4.46.0
+Time: 15261ms
+Built at: 02/24/2022 4:31:09 PM
+                                     Asset       Size       Chunks                         Chunk Names
+    js/application-4ff707c731c80cbe6d96.js    124 KiB  application  [emitted] [immutable]  application
+js/application-4ff707c731c80cbe6d96.js.map    139 KiB  application  [emitted] [dev]        application
+      js/hello_vue-0bac20cd3ca49514a668.js   3.48 MiB    hello_vue  [emitted] [immutable]  hello_vue
+  js/hello_vue-0bac20cd3ca49514a668.js.map   3.88 MiB    hello_vue  [emitted] [dev]        hello_vue
+                             manifest.json  689 bytes               [emitted]              
+Entrypoint application = js/application-4ff707c731c80cbe6d96.js js/application-4ff707c731c80cbe6d96.js.map
+Entrypoint hello_vue = js/hello_vue-0bac20cd3ca49514a668.js js/hello_vue-0bac20cd3ca49514a668.js.map
+[./app/javascript/app.vue] 1.14 KiB {hello_vue} [built]
+[./app/javascript/app.vue?vue&type=script&lang=js&] 364 bytes {hello_vue} [built]
+[./app/javascript/app.vue?vue&type=style&index=0&id=6fb8108a&scoped=true&lang=css&] 361 bytes {hello_vue} [built]
+[./app/javascript/app.vue?vue&type=template&id=6fb8108a&scoped=true&] 213 bytes {hello_vue} [built]
+[./app/javascript/channels sync recursive _channel\.js$] ./app/javascript/channels sync _channel\.js$ 160 bytes {application} [built]
+[./app/javascript/channels/index.js] 211 bytes {application} [built]
+[./app/javascript/packs/application.js] 749 bytes {application} [built]
+[./app/javascript/packs/hello_vue.js] 2.08 KiB {hello_vue} [built]
+[./app/javascript/router.js] 287 bytes {hello_vue} [built]
+[./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./app/javascript/app.vue?vue&type=script&lang=js&] ./node_modules/babel-loader/lib??ref--8-0!./node_modules/vue-loader/lib??vue-loader-options!./app/javascript/app.vue?vue&type=script&lang=js& 133 bytes {hello_vue} [built]
+[./node_modules/css-loader/dist/cjs.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!./app/javascript/app.vue?vue&type=style&index=0&id=6fb8108a&scoped=true&lang=css&] ./node_modules/css-loader/dist/cjs.js??ref--3-1!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--3-2!./node_modules/vue-loader/lib??vue-loader-options!./app/javascript/app.vue?vue&type=style&index=0&id=6fb8108a&scoped=true&lang=css& 891 bytes {hello_vue} [built]
+[./node_modules/style-loader/dist/cjs.js!./node_modules/css-loader/dist/cjs.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!./app/javascript/app.vue?vue&type=style&index=0&id=6fb8108a&scoped=true&lang=css&] ./node_modules/style-loader/dist/cjs.js!./node_modules/css-loader/dist/cjs.js??ref--3-1!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--3-2!./node_modules/vue-loader/lib??vue-loader-options!./app/javascript/app.vue?vue&type=style&index=0&id=6fb8108a&scoped=true&lang=css& 771 bytes {hello_vue} [built]
+[./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./app/javascript/app.vue?vue&type=template&id=6fb8108a&scoped=true&] ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./app/javascript/app.vue?vue&type=template&id=6fb8108a&scoped=true& 490 bytes {hello_vue} [built]
+[./node_modules/webpack/buildin/global.js] (webpack)/buildin/global.js 863 bytes {hello_vue} [built]
+[./node_modules/webpack/buildin/module.js] (webpack)/buildin/module.js 552 bytes {application} {hello_vue} [built]
+    + 20 hidden modules
+
+  Rendered home/index.html.erb within layouts/application (Duration: 21863.1ms | Allocations: 3676)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 21989ms (Views: 21978.6ms | ActiveRecord: 0.0ms | Allocations: 11130)
+
+
+Started GET "/home/index" for 172.27.0.1 at 2022-02-24 16:31:29 +0000
+Cannot render console from 172.27.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  
+ActionController::RoutingError (No route matches [GET] "/home/index"):
+  
+actionpack (6.0.4.6) lib/action_dispatch/middleware/debug_exceptions.rb:36:in `call'
+web-console (4.2.0) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.2.0) lib/web_console/middleware.rb:19:in `block in call'
+web-console (4.2.0) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.2.0) lib/web_console/middleware.rb:17:in `call'
+actionpack (6.0.4.6) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (6.0.4.6) lib/rails/rack/logger.rb:37:in `call_app'
+railties (6.0.4.6) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (6.0.4.6) lib/active_support/tagged_logging.rb:80:in `block in tagged'
+activesupport (6.0.4.6) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (6.0.4.6) lib/active_support/tagged_logging.rb:80:in `tagged'
+railties (6.0.4.6) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.4.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (6.0.4.6) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (6.0.4.6) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (6.0.4.6) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (6.0.4.6) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (6.0.4.6) lib/action_dispatch/middleware/static.rb:126:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+actionpack (6.0.4.6) lib/action_dispatch/middleware/host_authorization.rb:103:in `call'
+webpacker (4.3.0) lib/webpacker/dev_server_proxy.rb:23:in `perform_request'
+rack-proxy (0.7.2) lib/rack/proxy.rb:67:in `call'
+railties (6.0.4.6) lib/rails/engine.rb:527:in `call'
+puma (4.3.11) lib/puma/configuration.rb:228:in `call'
+puma (4.3.11) lib/puma/server.rb:718:in `handle_request'
+puma (4.3.11) lib/puma/server.rb:472:in `process_client'
+puma (4.3.11) lib/puma/server.rb:328:in `block in run'
+puma (4.3.11) lib/puma/thread_pool.rb:134:in `block in spawn_thread'
+Started GET "/" for 172.27.0.1 at 2022-02-24 16:32:58 +0000
+Cannot render console from 172.27.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+[Webpacker] Compiling...
+[Webpacker] Compiled all packs in /app/src/public/packs
+[Webpacker] warning ../package.json: No license field
+
+[Webpacker] Hash: 1d34e051efebcded8926
+Version: webpack 4.46.0
+Time: 13950ms
+Built at: 02/24/2022 4:33:19 PM
+                                     Asset       Size       Chunks                         Chunk Names
+    js/application-4ff707c731c80cbe6d96.js    124 KiB  application  [emitted] [immutable]  application
+js/application-4ff707c731c80cbe6d96.js.map    139 KiB  application  [emitted] [dev]        application
+      js/hello_vue-357117a5ea6124204189.js   3.48 MiB    hello_vue  [emitted] [immutable]  hello_vue
+  js/hello_vue-357117a5ea6124204189.js.map   3.88 MiB    hello_vue  [emitted] [dev]        hello_vue
+                             manifest.json  689 bytes               [emitted]              
+Entrypoint application = js/application-4ff707c731c80cbe6d96.js js/application-4ff707c731c80cbe6d96.js.map
+Entrypoint hello_vue = js/hello_vue-357117a5ea6124204189.js js/hello_vue-357117a5ea6124204189.js.map
+[./app/javascript/app.vue] 1.14 KiB {hello_vue} [built]
+[./app/javascript/app.vue?vue&type=script&lang=js&] 364 bytes {hello_vue} [built]
+[./app/javascript/app.vue?vue&type=style&index=0&id=6fb8108a&scoped=true&lang=css&] 361 bytes {hello_vue} [built]
+[./app/javascript/app.vue?vue&type=template&id=6fb8108a&scoped=true&] 213 bytes {hello_vue} [built]
+[./app/javascript/channels sync recursive _channel\.js$] ./app/javascript/channels sync _channel\.js$ 160 bytes {application} [built]
+[./app/javascript/channels/index.js] 211 bytes {application} [built]
+[./app/javascript/packs/application.js] 749 bytes {application} [built]
+[./app/javascript/packs/hello_vue.js] 2.08 KiB {hello_vue} [built]
+[./app/javascript/router.js] 287 bytes {hello_vue} [built]
+[./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./app/javascript/app.vue?vue&type=script&lang=js&] ./node_modules/babel-loader/lib??ref--8-0!./node_modules/vue-loader/lib??vue-loader-options!./app/javascript/app.vue?vue&type=script&lang=js& 133 bytes {hello_vue} [built]
+[./node_modules/css-loader/dist/cjs.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!./app/javascript/app.vue?vue&type=style&index=0&id=6fb8108a&scoped=true&lang=css&] ./node_modules/css-loader/dist/cjs.js??ref--3-1!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--3-2!./node_modules/vue-loader/lib??vue-loader-options!./app/javascript/app.vue?vue&type=style&index=0&id=6fb8108a&scoped=true&lang=css& 891 bytes {hello_vue} [built]
+[./node_modules/style-loader/dist/cjs.js!./node_modules/css-loader/dist/cjs.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!./app/javascript/app.vue?vue&type=style&index=0&id=6fb8108a&scoped=true&lang=css&] ./node_modules/style-loader/dist/cjs.js!./node_modules/css-loader/dist/cjs.js??ref--3-1!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--3-2!./node_modules/vue-loader/lib??vue-loader-options!./app/javascript/app.vue?vue&type=style&index=0&id=6fb8108a&scoped=true&lang=css& 771 bytes {hello_vue} [built]
+[./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./app/javascript/app.vue?vue&type=template&id=6fb8108a&scoped=true&] ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./app/javascript/app.vue?vue&type=template&id=6fb8108a&scoped=true& 490 bytes {hello_vue} [built]
+[./node_modules/webpack/buildin/global.js] (webpack)/buildin/global.js 863 bytes {hello_vue} [built]
+[./node_modules/webpack/buildin/module.js] (webpack)/buildin/module.js 552 bytes {application} {hello_vue} [built]
+    + 20 hidden modules
+
+  Rendered home/index.html.erb within layouts/application (Duration: 20731.6ms | Allocations: 3396)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 20800ms (Views: 20798.0ms | ActiveRecord: 0.0ms | Allocations: 7226)
+
+
